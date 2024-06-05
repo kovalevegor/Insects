@@ -1,2 +1,1 @@
-# TSP
-Travelling Salesman Problem 
+# Insects
